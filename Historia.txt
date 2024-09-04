@@ -1,3 +1,5 @@
 Nombre: Mónica
 Apellido: Garro
 CC: 32299176
+Edad: 39 años
+Teléfono: 3009876756
